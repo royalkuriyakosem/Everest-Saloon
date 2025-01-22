@@ -1,5 +1,6 @@
 # Everest Saloon
-This is a college project - A simple saloon website. 
+Tech Stack Used HTML/CSS/JS
+Designed in Figma
 
 Live link: vocal-panda-dfc80e.netlify.app/
 
